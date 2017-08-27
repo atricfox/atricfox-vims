@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/usr/local/etc/php/7.0/conf.d'
+let g:netrw_dirhist_2='/usr/local/etc/apache2'
+let g:netrw_dirhist_3='/Users/bran/nmt_model/train_log'
+let g:netrw_dirhist_4='/private/tmp/nmt_model/train_log'
+let g:netrw_dirhist_5='/Users/bran/nmt_model/train_log'
+let g:netrw_dirhist_6='/private/tmp/nmt_model/train_log'
+let g:netrw_dirhist_7='/Users/bran/nmt_model/train_log'
+let g:netrw_dirhist_8='/Users/bran/nmt_model/best_bleu'
+let g:netrw_dirhist_9='/Users/bran/.oh-my-zsh/themes'
