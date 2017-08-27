@@ -38,3 +38,43 @@
 	path = bundle/python-mode
 	url = https://github.com/klen/python-mode.git
 	ignore = dirty
+[submodule "bundle/supertab"]
+	path = bundle/supertab
+	url = https://github.com/ervandew/supertab.git
+	ignore = dirty
+[submodule "bundle/swift.vim"]
+        path = bundle/swift.vim
+	url = https://github.com/keith/swift.vim
+	ignore = dirty
+[submodule "bundle/tagbar"]
+	path = bundle/tagbar
+	url = https://github.com/majutsushi/tagbar
+	ignore = dirty
+[submodule "bundle/taglist.vim"]
+	path = bundle/taglist.vim
+	url = https://github.com/vim-scripts/taglist.vim
+	ignore = dirty
+[submodule "bundle/vim-markdown"]
+	path = bundle/vim-markdown
+	url = https://github.com/tpope/vim-markdown
+	ignore = dirty
+[submodule "bundle/vim-php-namespace"]
+	path = bundle/vim-php-namespace
+	url = https://github.com/arnaud-lb/vim-php-namespace
+	ignore = dirty
+[submodule "bundle/vim-python-pep8-indent"]
+	path = bundle/vim-python-pep8-indent
+	url = https://github.com/hynek/vim-python-pep8-indent
+	ignore = dirty
+[submodule "bundle/vim-sensible"]
+	path = bundle/vim-sensible
+	url = https://github.com/tpope/vim-sensible.git
+	ignore = dirty
+[submodule "bundle/vim-vue"]
+	path = bundle/vim-vue
+	url = https://github.com/posva/vim-vue
+	ignore = dirty
+[submodule "bundle/youcompleteme"]
+	path = bundle/youcompleteme
+	url = https://github.com/valloric/youcompleteme
+	ignore = dirty
