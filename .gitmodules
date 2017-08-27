@@ -1,0 +1,3 @@
+[submodule "autocomplete-swift"]
+	path = autocomplete-swift
+	url = https://github.com/mitsuse/autocomplete-swift
